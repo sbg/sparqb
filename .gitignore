@@ -1,0 +1,16 @@
+.idea
+*.iml
+*.pyc
+*.ipynb
+__pycache__/
+log
+docs/_build
+cover/
+dist/
+.coverage
+sparqb.egg-info
+*.orig
+out/
+.cache/
+
+.DS_store
