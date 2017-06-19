@@ -183,3 +183,8 @@ LIMIT 100
 There's another query builder class included, the BlazegraphQueryBuilder which covers Blazegraph specific features such as search statements and query hints.
 Examples of usage as well as more detailed examples are located in the examples.py.
 
+Contributors:
+Adam Stanojevic <adam.stanojevic@sbgenomics.com>
+Ivan Selimbegovic <ivan.selimbegovic@sbgenomics.com>
+Nemanja Vukosavljevic <nemanja.vukosavljevic@sbgenomics.com>
+Jovan Cejovic <jovan.cejovic@sbgdinc.com>
