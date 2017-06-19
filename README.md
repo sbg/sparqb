@@ -188,4 +188,7 @@ Contributors
 - Adam Stanojevic <adam.stanojevic@sbgenomics.com>
 - Ivan Selimbegovic <ivan.selimbegovic@sbgenomics.com>
 - Nemanja Vukosavljevic <nemanja.vukosavljevic@sbgenomics.com>
+- Milica Miletic <milica.miletic@sbgenomics.com>
+- Jelena Derikonjic <jelena.derikonjic@sbgenomics.com>
+- Vladimir Mladenovic <vladimir.mladenovic@sbgenomics.com>
 - Jovan Cejovic <jovan.cejovic@sbgdinc.com>
