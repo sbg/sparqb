@@ -18,7 +18,7 @@ Installation
 
 The easiest way to install sparqb is using pip:
 
-    $ pip install git+https://github.com/sbg-cancer-cloud/sparqb
+    $ pip install git+https://github.com/sbg/sparqb
 
 Get the Code
 ------------
@@ -28,7 +28,7 @@ always available.
 
 The easiest way to obtain the source is to clone the public repository:
 
-    $ git clone git@github.com:sbg-cancer-cloud/sparqb.git
+    $ git clone git@github.com:sbg/sparqb.git
 
 Once you have a copy of the source, you can embed it in your Python
 package, or install it into your site-packages by invoking:
